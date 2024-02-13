@@ -1,8 +1,7 @@
 [![InfernoRed Technology][logo]][inferno-red]
 
-## We build <u>awesome</u> software.
-
-* 💻 [Check out our work][work]
+## Check us out!
+* 💻 [See our work][work]
 * 📚 [Read our blog][blog]
 * 🤝 [Join our team][career]
 
