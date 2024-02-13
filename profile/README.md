@@ -1,12 +1,16 @@
-## Hi there 👋
+[![InfernoRed Technology][logo]][inferno-red]
 
-<!--
+## We build <u>awesome</u> software.
 
-**Here are some ideas to get you started:**
+* 💻 [Check out our work][work]
+* 📚 [Read our blog][blog]
+* 🤝 [Join our team][career]
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [InfernoRed.com][inferno-red] to learn more!
+
+<!-- Links -->
+[logo]: /images/inferno-red-logo.png
+[inferno-red]: https://infernored.com
+[work]: https://infernored.com/work
+[blog]:https://blog.infernored.com/
+[career]:https://infernored.freshteam.com/jobs
