@@ -9,7 +9,7 @@
 Visit [InfernoRed.com][inferno-red] to learn more!
 
 <!-- Links -->
-[logo]: /images/inferno-red-logo.png
+[logo]: /images/inferno-red-we-build.jpeg
 [inferno-red]: https://infernored.com
 [work]: https://infernored.com/work
 [blog]:https://blog.infernored.com/
